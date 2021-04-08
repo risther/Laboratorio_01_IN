@@ -1,0 +1,841 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2021.1.6)  8 APR 2021 14:27
+entering extended mode
+**./index.tex
+(index.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-18>
+(D:\MikText\tex/latex/elsarticle\elsarticle.cls
+Document Class: elsarticle 2020/11/20, 3.3: Elsevier Ltd
+(D:\MikText\tex/latex/l3kernel\expl3.sty
+Package: expl3 2020-06-18 L3 programming layer (loader) 
+
+(D:\MikText\tex/latex/l3backend\l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count167
+\l__pdf_internal_box=\box45
+))
+(D:\MikText\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2020-05-15 L3 Experimental document command parser
+
+(D:\MikText\tex/latex/l3packages/xparse\xparse-generic.tex
+\l__xparse_current_arg_int=\count168
+\g__xparse_grabber_int=\count169
+\l__xparse_m_args_int=\count170
+\l__xparse_v_nesting_int=\count171
+))
+(D:\MikText\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count172
+)
+\@bls=\dimen134
+
+(D:\MikText\tex/latex/base\article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(D:\MikText\tex/latex/base\size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count173
+\c@section=\count174
+\c@subsection=\count175
+\c@subsubsection=\count176
+\c@paragraph=\count177
+\c@subparagraph=\count178
+\c@figure=\count179
+\c@table=\count180
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen135
+)
+(D:\MikText\tex/latex/graphics\graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\MikText\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(D:\MikText\tex/latex/graphics\graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\MikText\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(D:\MikText\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(D:\MikText\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen136
+\Gin@req@width=\dimen137
+)
+\c@tnote=\count181
+\c@fnote=\count182
+\c@cnote=\count183
+\c@ead=\count184
+\c@author=\count185
+\@eadauthor=\toks16
+\c@affn=\count186
+\absbox=\box46
+\elsarticlehighlightsbox=\box47
+\elsarticlegrabsbox=\box48
+\keybox=\box49
+\Columnwidth=\dimen138
+\space@left=\dimen139
+\els@boxa=\box50
+\els@boxb=\box51
+\leftMargin=\dimen140
+\@enLab=\toks17
+\@sep=\skip49
+\@@sep=\skip50
+ (index.spl)
+(D:\MikText\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip51
+\bibsep=\skip52
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count187
+)
+\splwrite=\write3
+\openout3 = `index.spl'.
+
+\appnamewidth=\dimen141
+)
+(D:\MikText\tex/generic/babel\babel.sty
+Package: babel 2020/06/10 3.45 The Babel package
+ (D:\MikText\tex/generic/babel\babel.def
+File: babel.def 2020/06/10 3.45 Babel common definitions
+\babel@savecnt=\count188
+\U@D=\dimen142
+\l@babelnohyphens=\language79
+(D:\MikText\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count189
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(D:\MikText\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(D:\MikText\tex/latex/babel-spanish\spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+\es@quottoks=\toks18
+\es@quotdepth=\count190
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+(D:\MikText\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(D:\MikText\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks19
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(D:\MikText\tex/latex/lineno\lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count191
+\output=\toks20
+\linenoprevgraf=\count192
+\linenumbersep=\dimen143
+\linenumberwidth=\dimen144
+\c@linenumber=\count193
+\c@pagewiselinenumber=\count194
+\c@LN@truepage=\count195
+\c@internallinenumber=\count196
+\c@internallinenumbers=\count197
+\quotelinenumbersep=\dimen145
+\bframerule=\dimen146
+\bframesep=\dimen147
+\bframebox=\box52
+LaTeX Info: Redefining \\ on input line 3056.
+)
+(D:\MikText\tex/latex/base\inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks21
+\inpenc@posthook=\toks22
+) (D:\MikText\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(index.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+\openout1 = `index.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+ (D:\MikText\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count198
+\scratchdimen=\dimen148
+\scratchbox=\box53
+\nofMPsegments=\count199
+\nofMParguments=\count266
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count267
+\MPscratchDim=\dimen149
+\MPnumerator=\count268
+\makeMPintoPDFobject=\count269
+\everyMPtoPDFconversion=\toks24
+) (D:\MikText\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+LaTeX Info: Redefining \. on input line 12.
+LaTeX Info: Redefining \% on input line 12.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 26.
+
+
+(D:\MikText\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 26.
+
+ (D:\MikText\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+<./IMAGENES/0.1.jpg, id=1, 725.71124pt x 182.18062pt>
+File: ./IMAGENES/0.1.jpg Graphic file (type jpg)
+<use ./IMAGENES/0.1.jpg>
+Package pdftex.def Info: ./IMAGENES/0.1.jpg  used on input line 45.
+(pdftex.def)             Requested size: 284.52756pt x 71.4282pt.
+
+LaTeX Warning: File `./IMAGENES/0.2' not found on input line 46.
+
+
+! LaTeX Error: Unknown graphics extension: .2.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 ...ncludegraphics[width=10cm]{./IMAGENES/0.2}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--47
+
+ []
+
+
+Overfull \hbox (2.61108pt too wide) has occurred while \output is active
+[] 
+ []
+
+[1
+
+
+{C:/Users/Risther/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./IMAGENES/0.
+1.jpg>]
+<./IMAGENES/3.1.jpg, id=11, 353.06906pt x 429.10312pt>
+File: ./IMAGENES/3.1.jpg Graphic file (type jpg)
+<use ./IMAGENES/3.1.jpg>
+Package pdftex.def Info: ./IMAGENES/3.1.jpg  used on input line 61.
+(pdftex.def)             Requested size: 284.52756pt x 345.80377pt.
+<./IMAGENES/3.1.3.jpg, id=12, 1006.51031pt x 532.99126pt>
+File: ./IMAGENES/3.1.3.jpg Graphic file (type jpg)
+<use ./IMAGENES/3.1.3.jpg>
+Package pdftex.def Info: ./IMAGENES/3.1.3.jpg  used on input line 66.
+(pdftex.def)             Requested size: 284.52756pt x 150.6679pt.
+ [2 <./IMAGENES/3.1.jpg>]
+<./IMAGENES/3.2.1.jpg, id=16, 276.28218pt x 158.09062pt>
+File: ./IMAGENES/3.2.1.jpg Graphic file (type jpg)
+<use ./IMAGENES/3.2.1.jpg>
+Package pdftex.def Info: ./IMAGENES/3.2.1.jpg  used on input line 73.
+(pdftex.def)             Requested size: 284.52756pt x 162.80861pt.
+<./IMAGENES/3.2.3.jpg, id=17, 540.51938pt x 325.215pt>
+File: ./IMAGENES/3.2.3.jpg Graphic file (type jpg)
+<use ./IMAGENES/3.2.3.jpg>
+Package pdftex.def Info: ./IMAGENES/3.2.3.jpg  used on input line 77.
+(pdftex.def)             Requested size: 284.52756pt x 171.19696pt.
+ [3 <./IMAGENES/3.1.3.jpg> <./IMAGENES/3.2.1.jpg>]
+<./IMAGENES/3.2.4.jpg, id=21, 332.74312pt x 305.64188pt>
+File: ./IMAGENES/3.2.4.jpg Graphic file (type jpg)
+<use ./IMAGENES/3.2.4.jpg>
+Package pdftex.def Info: ./IMAGENES/3.2.4.jpg  used on input line 80.
+(pdftex.def)             Requested size: 284.52756pt x 261.36847pt.
+<./IMAGENES/3.3.1.jpg, id=22, 465.23813pt x 350.05782pt>
+File: ./IMAGENES/3.3.1.jpg Graphic file (type jpg)
+<use ./IMAGENES/3.3.1.jpg>
+Package pdftex.def Info: ./IMAGENES/3.3.1.jpg  used on input line 91.
+(pdftex.def)             Requested size: 284.52756pt x 214.09045pt.
+ [4 <./IMAGENES/3.2.3.jpg> <./IMAGENES/3.2.4.jpg>]
+<./IMAGENES/3.3.1.2.jpg, id=26, 554.07pt x 453.94594pt>
+File: ./IMAGENES/3.3.1.2.jpg Graphic file (type jpg)
+<use ./IMAGENES/3.3.1.2.jpg>
+Package pdftex.def Info: ./IMAGENES/3.3.1.2.jpg  used on input line 98.
+(pdftex.def)             Requested size: 284.52756pt x 233.10942pt.
+ [5 <./IMAGENES/3.3.1.jpg>]
+Runaway argument?
+{
+! Paragraph ended before \@sect was complete.
+<to be read again> 
+                   \par 
+l.104 	
+       
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Too many }'s.
+\@xdblarg #1#2->#1[{#2}
+                       ]{#2}
+l.104 	
+       
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110 		\\	\includegraphics
+                           [width=10cm]{./IMAGENES/4.1}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+LaTeX Warning: File `./IMAGENES/4.1' not found on input line 110.
+
+
+! LaTeX Error: Unknown graphics extension: .1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110 ...cludegraphics[width=10cm]{./IMAGENES/4.1}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.112 		\\	\includegraphics
+                           [width=10cm]{./IMAGENES/4.2}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./IMAGENES/4.2.jpg, id=30, 537.50812pt x 322.20375pt>
+File: ./IMAGENES/4.2.jpg Graphic file (type jpg)
+<use ./IMAGENES/4.2.jpg>
+Package pdftex.def Info: ./IMAGENES/4.2.jpg  used on input line 112.
+(pdftex.def)             Requested size: 284.52756pt x 170.55576pt.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.114 		\\	\includegraphics
+                           [width=10cm]{./IMAGENES/4.3.1}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./IMAGENES/4.3.1.jpg, id=31, 625.58719pt x 435.87843pt>
+File: ./IMAGENES/4.3.1.jpg Graphic file (type jpg)
+<use ./IMAGENES/4.3.1.jpg>
+Package pdftex.def Info: ./IMAGENES/4.3.1.jpg  used on input line 114.
+(pdftex.def)             Requested size: 284.52756pt x 198.25183pt.
+[6 <./IMAGENES/3.3.1.2.jpg> <./IMAGENES/4.2.jpg>]
+Runaway argument?
+{
+! Paragraph ended before \@sect was complete.
+<to be read again> 
+                   \par 
+l.117  	
+        
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Too many }'s.
+\@xdblarg #1#2->#1[{#2}
+                       ]{#2}
+l.117  	
+        
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+<./IMAGENES/5.1.jpg, id=35, 277.035pt x 100.87688pt>
+File: ./IMAGENES/5.1.jpg Graphic file (type jpg)
+<use ./IMAGENES/5.1.jpg>
+Package pdftex.def Info: ./IMAGENES/5.1.jpg  used on input line 129.
+(pdftex.def)             Requested size: 284.52756pt x 103.60571pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--143
+
+ []
+
+
+Overfull \hbox (1.47784pt too wide) in paragraph at lines 126--143
+[] \OT1/cmr/m/n/12 3. Arras-tre Re-
+ []
+
+[7 <./IMAGENES/4.3.1.jpg> <./IMAGENES/5.1.jpg>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.144 		\\	\includegraphics
+                           [width=10cm]{./IMAGENES/5.2}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./IMAGENES/5.2.jpg, id=40, 461.47406pt x 405.76593pt>
+File: ./IMAGENES/5.2.jpg Graphic file (type jpg)
+<use ./IMAGENES/5.2.jpg>
+Package pdftex.def Info: ./IMAGENES/5.2.jpg  used on input line 144.
+(pdftex.def)             Requested size: 284.52756pt x 250.17918pt.
+<./IMAGENES/6.1.jpg, id=41, 254.45062pt x 262.73157pt>
+File: ./IMAGENES/6.1.jpg Graphic file (type jpg)
+<use ./IMAGENES/6.1.jpg>
+Package pdftex.def Info: ./IMAGENES/6.1.jpg  used on input line 152.
+(pdftex.def)             Requested size: 284.52756pt x 293.80031pt.
+<./IMAGENES/6.2.jpg, id=42, 194.22563pt x 243.91125pt>
+File: ./IMAGENES/6.2.jpg Graphic file (type jpg)
+<use ./IMAGENES/6.2.jpg>
+Package pdftex.def Info: ./IMAGENES/6.2.jpg  used on input line 164.
+(pdftex.def)             Requested size: 284.52756pt x 357.32448pt.
+<./IMAGENES/6.3.jpg, id=43, 307.1475pt x 402.75468pt>
+File: ./IMAGENES/6.3.jpg Graphic file (type jpg)
+<use ./IMAGENES/6.3.jpg>
+Package pdftex.def Info: ./IMAGENES/6.3.jpg  used on input line 172.
+(pdftex.def)             Requested size: 284.52756pt x 373.11992pt.
+<./IMAGENES/6.4.jpg, id=44, 452.4403pt x 153.57375pt>
+File: ./IMAGENES/6.4.jpg Graphic file (type jpg)
+<use ./IMAGENES/6.4.jpg>
+Package pdftex.def Info: ./IMAGENES/6.4.jpg  used on input line 178.
+(pdftex.def)             Requested size: 284.52756pt x 96.57855pt.
+[8 <./IMAGENES/5.2.jpg>] [9 <./IMAGENES/6.1.jpg>] [10 <./IMAGENES/6.2.jpg>]
+[11 <./IMAGENES/6.3.jpg>]
+Runaway argument?
+{
+! Paragraph ended before \@sect was complete.
+<to be read again> 
+                   \par 
+l.187 
+      
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Too many }'s.
+\@xdblarg #1#2->#1[{#2}
+                       ]{#2}
+l.187 
+      
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+<./IMAGENES/7.1.1.jpg, id=57, 224.33812pt x 116.68594pt>
+File: ./IMAGENES/7.1.1.jpg Graphic file (type jpg)
+<use ./IMAGENES/7.1.1.jpg>
+Package pdftex.def Info: ./IMAGENES/7.1.1.jpg  used on input line 194.
+(pdftex.def)             Requested size: 284.52756pt x 148.00786pt.
+<./IMAGENES/7.1.2.jpg, id=58, 136.25906pt x 178.41656pt>
+File: ./IMAGENES/7.1.2.jpg Graphic file (type jpg)
+<use ./IMAGENES/7.1.2.jpg>
+Package pdftex.def Info: ./IMAGENES/7.1.2.jpg  used on input line 198.
+(pdftex.def)             Requested size: 142.26378pt x 186.28932pt.
+<./IMAGENES/7.1.2.5.jpg, id=59, 170.88844pt x 391.4625pt>
+File: ./IMAGENES/7.1.2.5.jpg Graphic file (type jpg)
+<use ./IMAGENES/7.1.2.5.jpg>
+Package pdftex.def Info: ./IMAGENES/7.1.2.5.jpg  used on input line 202.
+(pdftex.def)             Requested size: 142.26378pt x 325.91132pt.
+<./IMAGENES/7.1.3.jpg, id=60, 179.16937pt x 79.79813pt>
+File: ./IMAGENES/7.1.3.jpg Graphic file (type jpg)
+<use ./IMAGENES/7.1.3.jpg>
+Package pdftex.def Info: ./IMAGENES/7.1.3.jpg  used on input line 205.
+(pdftex.def)             Requested size: 284.52756pt x 126.73105pt.
+<./IMAGENES/7.1.4.jpg, id=61, 528.47438pt x 277.78781pt>
+File: ./IMAGENES/7.1.4.jpg Graphic file (type jpg)
+<use ./IMAGENES/7.1.4.jpg>
+Package pdftex.def Info: ./IMAGENES/7.1.4.jpg  used on input line 211.
+(pdftex.def)             Requested size: 284.52756pt x 149.5581pt.
+[12 <./IMAGENES/6.4.jpg> <./IMAGENES/7.1.1.jpg>] [13 <./IMAGENES/7.1.2.jpg>]
+[14 <./IMAGENES/7.1.2.5.jpg> <./IMAGENES/7.1.3.jpg>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.215 		 	\\	\includegraphics
+                             [width=10cm]{./IMAGENES/7.1.5}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./IMAGENES/7.1.5.jpg, id=72, 527.72156pt x 265.74281pt>
+File: ./IMAGENES/7.1.5.jpg Graphic file (type jpg)
+<use ./IMAGENES/7.1.5.jpg>
+Package pdftex.def Info: ./IMAGENES/7.1.5.jpg  used on input line 215.
+(pdftex.def)             Requested size: 284.52756pt x 143.27596pt.
+[15 <./IMAGENES/7.1.4.jpg> <./IMAGENES/7.1.5.jpg>]
+Runaway argument?
+{
+! Paragraph ended before \@sect was complete.
+<to be read again> 
+                   \par 
+l.234 
+      
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Too many }'s.
+\@xdblarg #1#2->#1[{#2}
+                       ]{#2}
+l.234 
+      
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+File: ./IMAGENES/7.1.1.jpg Graphic file (type jpg)
+<use ./IMAGENES/7.1.1.jpg>
+Package pdftex.def Info: ./IMAGENES/7.1.1.jpg  used on input line 242.
+(pdftex.def)             Requested size: 284.52756pt x 148.00786pt.
+File: ./IMAGENES/7.1.2.jpg Graphic file (type jpg)
+<use ./IMAGENES/7.1.2.jpg>
+Package pdftex.def Info: ./IMAGENES/7.1.2.jpg  used on input line 245.
+(pdftex.def)             Requested size: 199.16928pt x 260.80724pt.
+
+LaTeX Warning: File `./IMAGENES/7.1.2.1' not found on input line 249.
+
+
+! LaTeX Error: Unknown graphics extension: .1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.249 ...egraphics[width=10cm]{./IMAGENES/7.1.2.1}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--252
+
+ []
+
+[16]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.253 					\\	\includegraphics
+                              [width=10cm]{./IMAGENES/7.1.3}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: ./IMAGENES/7.1.3.jpg Graphic file (type jpg)
+<use ./IMAGENES/7.1.3.jpg>
+Package pdftex.def Info: ./IMAGENES/7.1.3.jpg  used on input line 253.
+(pdftex.def)             Requested size: 284.52756pt x 126.73105pt.
+File: ./IMAGENES/7.1.4.jpg Graphic file (type jpg)
+<use ./IMAGENES/7.1.4.jpg>
+Package pdftex.def Info: ./IMAGENES/7.1.4.jpg  used on input line 255.
+(pdftex.def)             Requested size: 284.52756pt x 149.5581pt.
+[17]
+<./IMAGENES/7.2.1.jpg, id=82, 177.66376pt x 259.7203pt>
+File: ./IMAGENES/7.2.1.jpg Graphic file (type jpg)
+<use ./IMAGENES/7.2.1.jpg>
+Package pdftex.def Info: ./IMAGENES/7.2.1.jpg  used on input line 262.
+(pdftex.def)             Requested size: 142.26378pt x 207.97467pt.
+<./IMAGENES/7.2.2.jpg, id=83, 221.32687pt x 194.22563pt>
+File: ./IMAGENES/7.2.2.jpg Graphic file (type jpg)
+<use ./IMAGENES/7.2.2.jpg>
+Package pdftex.def Info: ./IMAGENES/7.2.2.jpg  used on input line 267.
+(pdftex.def)             Requested size: 142.26378pt x 124.84927pt.
+<./IMAGENES/7.2.3.jpg, id=84, 450.9347pt x 342.5297pt>
+File: ./IMAGENES/7.2.3.jpg Graphic file (type jpg)
+<use ./IMAGENES/7.2.3.jpg>
+Package pdftex.def Info: ./IMAGENES/7.2.3.jpg  used on input line 274.
+(pdftex.def)             Requested size: 284.52756pt x 216.1398pt.
+ [18 <./IMAGENES/7.2.1.jpg>]
+Runaway argument?
+{
+! Paragraph ended before \@sect was complete.
+<to be read again> 
+                   \par 
+l.277 
+      
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Too many }'s.
+\@xdblarg #1#2->#1[{#2}
+                       ]{#2}
+l.277 
+      
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.285 						\\	\includegraphics
+                               [width=10cm]{./IMAGENES/8.1}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[19 <./IMAGENES/7.2.2.jpg> <./IMAGENES/7.2.3.jpg>]
+<./IMAGENES/8.1.jpg, id=92, 344.78813pt x 321.45094pt>
+File: ./IMAGENES/8.1.jpg Graphic file (type jpg)
+<use ./IMAGENES/8.1.jpg>
+Package pdftex.def Info: ./IMAGENES/8.1.jpg  used on input line 285.
+(pdftex.def)             Requested size: 284.52756pt x 265.26895pt.
+<./IMAGENES/8.2.jpg, id=93, 542.025pt x 322.95656pt>
+File: ./IMAGENES/8.2.jpg Graphic file (type jpg)
+<use ./IMAGENES/8.2.jpg>
+Package pdftex.def Info: ./IMAGENES/8.2.jpg  used on input line 288.
+(pdftex.def)             Requested size: 284.52756pt x 169.53502pt.
+<./IMAGENES/8.3.jpg, id=94, 274.77657pt x 249.18094pt>
+File: ./IMAGENES/8.3.jpg Graphic file (type jpg)
+<use ./IMAGENES/8.3.jpg>
+Package pdftex.def Info: ./IMAGENES/8.3.jpg  used on input line 292.
+(pdftex.def)             Requested size: 284.52756pt x 258.04701pt.
+<./IMAGENES/8.4.jpg, id=95, 660.21657pt x 266.49562pt>
+File: ./IMAGENES/8.4.jpg Graphic file (type jpg)
+<use ./IMAGENES/8.4.jpg>
+Package pdftex.def Info: ./IMAGENES/8.4.jpg  used on input line 293.
+(pdftex.def)             Requested size: 284.52756pt x 114.85112pt.
+ [20 <./IMAGENES/8.1.jpg> <./IMAGENES/8.2.jpg>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.295 				\\ 4
+              . Abra el campo calculado e inserte el siguiente script.
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.296 				\\ 5. SCRIPT_
+                       REAL("fit <- lm(.arg1 ~ .arg2 + .arg3 + .arg4)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<./IMAGENES/8.5.jpg, id=99, 392.96812pt x 289.08pt>
+File: ./IMAGENES/8.5.jpg Graphic file (type jpg)
+<use ./IMAGENES/8.5.jpg>
+Package pdftex.def Info: ./IMAGENES/8.5.jpg  used on input line 297.
+(pdftex.def)             Requested size: 284.52756pt x 209.31958pt.
+[21 <./IMAGENES/8.3.jpg> <./IMAGENES/8.4.jpg>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.300 				\\ 8
+              . 8. SUM([Profit]), AVG([Sales]), AVG([Quantity]), AVG([Discou...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./IMAGENES/8.6.jpg, id=106, 300.3722pt x 391.4625pt>
+File: ./IMAGENES/8.6.jpg Graphic file (type jpg)
+<use ./IMAGENES/8.6.jpg>
+Package pdftex.def Info: ./IMAGENES/8.6.jpg  used on input line 301.
+(pdftex.def)             Requested size: 284.52756pt x 370.84193pt.
+[22 <./IMAGENES/8.5.jpg>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.309 					\\	\includegraphics
+                              [width=10cm]{./IMAGENES/9.1}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./IMAGENES/9.1.jpg, id=110, 203.25937pt x 82.80937pt>
+File: ./IMAGENES/9.1.jpg Graphic file (type jpg)
+<use ./IMAGENES/9.1.jpg>
+Package pdftex.def Info: ./IMAGENES/9.1.jpg  used on input line 309.
+(pdftex.def)             Requested size: 284.52756pt x 115.92346pt.
+<./IMAGENES/9.1.2.jpg, id=111, 201.00093pt x 165.61874pt>
+File: ./IMAGENES/9.1.2.jpg Graphic file (type jpg)
+<use ./IMAGENES/9.1.2.jpg>
+Package pdftex.def Info: ./IMAGENES/9.1.2.jpg  used on input line 311.
+(pdftex.def)             Requested size: 284.52756pt x 234.44232pt.
+[23 <./IMAGENES/8.6.jpg> <./IMAGENES/9.1.jpg>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.314 					\\	\includegraphics
+                              [width=10cm]{./IMAGENES/9.2}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<./IMAGENES/9.2.jpg, id=115, 496.10344pt x 338.76563pt>
+File: ./IMAGENES/9.2.jpg Graphic file (type jpg)
+<use ./IMAGENES/9.2.jpg>
+Package pdftex.def Info: ./IMAGENES/9.2.jpg  used on input line 314.
+(pdftex.def)             Requested size: 284.52756pt x 194.29248pt.
+<./IMAGENES/10.1.jpg, id=116, 340.27126pt x 270.25969pt>
+File: ./IMAGENES/10.1.jpg Graphic file (type jpg)
+<use ./IMAGENES/10.1.jpg>
+Package pdftex.def Info: ./IMAGENES/10.1.jpg  used on input line 321.
+(pdftex.def)             Requested size: 284.52756pt x 225.99799pt.
+<./IMAGENES/10.2.jpg, id=117, 229.60782pt x 262.73157pt>
+File: ./IMAGENES/10.2.jpg Graphic file (type jpg)
+<use ./IMAGENES/10.2.jpg>
+Package pdftex.def Info: ./IMAGENES/10.2.jpg  used on input line 323.
+(pdftex.def)             Requested size: 284.52756pt x 325.59132pt.
+<./IMAGENES/10.3.jpg, id=118, 312.41719pt x 76.78688pt>
+File: ./IMAGENES/10.3.jpg Graphic file (type jpg)
+<use ./IMAGENES/10.3.jpg>
+Package pdftex.def Info: ./IMAGENES/10.3.jpg  used on input line 330.
+(pdftex.def)             Requested size: 284.52756pt x 69.93356pt.
+<./IMAGENES/10.4.jpg, id=119, 733.23938pt x 310.91156pt>
+File: ./IMAGENES/10.4.jpg Graphic file (type jpg)
+<use ./IMAGENES/10.4.jpg>
+Package pdftex.def Info: ./IMAGENES/10.4.jpg  used on input line 331.
+(pdftex.def)             Requested size: 284.52756pt x 120.64777pt.
+<./IMAGENES/10.5.jpg, id=120, 317.68687pt x 279.29344pt>
+File: ./IMAGENES/10.5.jpg Graphic file (type jpg)
+<use ./IMAGENES/10.5.jpg>
+Package pdftex.def Info: ./IMAGENES/10.5.jpg  used on input line 334.
+(pdftex.def)             Requested size: 284.52756pt x 250.16425pt.
+[24 <./IMAGENES/9.1.2.jpg> <./IMAGENES/9.2.jpg>] [25 <./IMAGENES/10.1.jpg>]
+[26 <./IMAGENES/10.2.jpg> <./IMAGENES/10.3.jpg>]
+Runaway argument?
+{
+! Paragraph ended before \@sect was complete.
+<to be read again> 
+                   \par 
+l.337 
+      
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Too many }'s.
+\@xdblarg #1#2->#1[{#2}
+                       ]{#2}
+l.337 
+      
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+Runaway argument?
+{
+! Paragraph ended before \@sect was complete.
+<to be read again> 
+                   \par 
+l.345 
+      
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Too many }'s.
+\@xdblarg #1#2->#1[{#2}
+                       ]{#2}
+l.345 
+      
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+[27 <./IMAGENES/10.4.jpg> <./IMAGENES/10.5.jpg>] [28] (index.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+) ) 
+Here is how much of TeX's memory you used:
+ 4929 strings out of 480790
+ 73199 string characters out of 2913140
+ 323729 words of memory out of 3000000
+ 20833 multiletter control sequences out of 15000+200000
+ 538581 words of font info for 47 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,5n,36p,776b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/MikText/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/MikText/fonts/type
+1/public/amsfonts/cm/cmmi12.pfb><D:/MikText/fonts/type1/public/amsfonts/cm/cmmi
+8.pfb><D:/MikText/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/MikText/fonts/ty
+pe1/public/amsfonts/cm/cmr17.pfb><D:/MikText/fonts/type1/public/amsfonts/cm/cms
+y10.pfb><D:/MikText/fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/MikText/fonts
+/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on index.pdf (28 pages, 1589276 bytes).
+PDF statistics:
+ 163 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 196 words of extra memory for PDF output out of 10000 (max. 10000000)
+
